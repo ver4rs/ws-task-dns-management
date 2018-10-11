@@ -1,3 +1,5 @@
+Updated: code is in private repo  ....you don't need help. ..or write me
+
 # ws-task-dns-management
 I made a website for DNS management by Websupport API
 
